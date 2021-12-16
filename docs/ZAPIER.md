@@ -1,0 +1,4 @@
+- reasons for Zapier
+- provided functionality
+- how to use (web)
+- integrations

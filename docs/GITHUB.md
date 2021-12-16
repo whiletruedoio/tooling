@@ -1,0 +1,6 @@
+- reasons for github
+- provided functionality
+- how to use (web, apps, git)
+- .github repository
+- template repository
+- integrations
