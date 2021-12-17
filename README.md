@@ -92,14 +92,14 @@ use webhooks or other functionality via Zapier.
 You can find a list of these integrations and the reasons behind the decision
 in [this](docs/ZAPIER.md) document.
 
-## Software
+### Software
 
 At [while-true-do.io](https://while-true-do.io), we agreed to use some software
 and ensure it is working as desired. Nobody is forced to use the same stack,
 but if you need some help from the community, it is recommended to check the
 default software.
 
-### Ansible
+#### Ansible
 
 For automation purposes, we use [Ansible](https://www.ansible.com) most of the
 time. Since Ansible provides options for setup and operations, it was chosen. It
@@ -108,7 +108,7 @@ is also easy to learn and provides thousands of integrations.
 If you intend to use Ansible or maintain Ansible Code, it is highly recommended
 to read our [Ansible Documentation](docs/ANSIBLE.md) beforehand.
 
-### k3s/k3os
+#### k3s/k3os
 
 Using Kubernetes was somewhat mandatory to ensure that we can maintain our
 software in a declaritive and consistent way. After lots of investigation,
@@ -118,7 +118,7 @@ workflow.
 You can read more about [k3s](https://k3s.io/) and [k3os](https://k3os.io/)
 beforehand and also check our own [documentation](docs/K3OS.md).
 
-### Kubernetes
+#### Kubernetes
 
 On top of k3s, we are doing Kubernetes deployments and deploy containers. This
 was the most convenient way to establish a proper lifecycle management and
@@ -126,13 +126,6 @@ ensure that nothing is changed by accident.
 
 You can read more about the reasons and guidelines in the Kubernetes
 [document](docs/KUBERNETES.md).
-
-### Support
-
-We are making the software in our freetime and without payment. Nevertheless,
-we try to support you wherever possible. In case you want to get in touch with
-us, please have a look at the [Contact](#Contact) options and the
-[Support Guide](docs/SUPPORT.md).
 
 ## Contribute
 

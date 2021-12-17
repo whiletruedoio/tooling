@@ -35,9 +35,9 @@ list gives an overview of the project/organisation wide used features.
 - [x] markdown parser
 - [x] package registry
 - [x] permission management
-- [x] pull requests
-- [x] reviewers
 - [ ] projects
+- [x] pull requests
+- [x] reviewes
 - [ ] wiki
 
 ### github repository
@@ -46,15 +46,16 @@ We use a [.github repository](https://github.com/whiletruedoio/.github) to
 provide default documents and issue templates for all repositories. We also have
 a profile document, that welcomes new users and contributors.
 
-- reference: <https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file>
+- [Reference](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
 
 ### issue templates
 
-Issue templates are maintained in the [.github repository](https://github.com/)
+Issue templates are maintained in the
+[.github repository](https://github.com/whiletruedoio/.github)
 and are available in all repositories. This makes it very easy and convenient
 to have proper formated issues and provide additional links and questions.
 
-- reference: <https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests>
+- [Reference](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests)
 
 ### template repository
 
@@ -62,7 +63,7 @@ We use a [template repository](https://github.com/whiletruedoio/template) to
 provide a skeleton for new repositories. This makes it very easy to create a new
 repository and include some standard files.
 
-- reference: <https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository>
+- [Reference](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
 
 ## Usage
 
