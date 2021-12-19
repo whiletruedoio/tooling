@@ -19,6 +19,14 @@ Below you can find some reasons why we decided to use GitHub.
 - k3os and Ansible Galaxy rely on GitHub or can use it to add features
 - you can use static pages, containers and packages on GitHub
 
+## Docs & Links
+
+The below list provides some useful links and documentation for GitHub.
+
+- Site: <https://github.com/>
+- Docs: <https://docs.github.com/>
+- Apps: <https://github.com/marketplace>
+
 ## Features
 
 At [while-true-do.io](https://while-true-do.io), we use some features directly
