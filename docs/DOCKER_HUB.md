@@ -64,7 +64,8 @@ $ docker push -t docker.io/whiletruedoio/IMAGE:TAG
 ```
 
 In addition, Docker hub provides options to link a repository and build directly
-from new Dockerfiles in a branch.
+from new Dockerfiles in a branch. You can find some container repository
+examples [here](https://github.com/whiletruedoio/container-template).
 
 ## Integrations
 

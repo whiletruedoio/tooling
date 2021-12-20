@@ -32,6 +32,16 @@ infrastructure is still a thing, but first we want to get stuff done.
 most common way to publish Ansible content like plugins, roles, playbooks and
 collections. We also intend to publish our work there.
 
+You can find a more detailed description [here](./docs/ANSIBLE_GALAXY.md).
+
+#### Docker Hub
+
+[Docker Hub](https://hub.docker.com/u/whiletruedoio) is the most common resource
+to store and search for container images. We are using it for all published
+images, too.
+
+You can find a more detailed description [here](./docs/DOCKER_HUB.md).
+
 #### GitHub
 
 [GitHub](https://github.com/whiletruedoio) is our default place to store code,
@@ -108,15 +118,24 @@ is also easy to learn and provides thousands of integrations.
 If you intend to use Ansible or maintain Ansible Code, it is highly recommended
 to read our [Ansible Documentation](docs/ANSIBLE.md) beforehand.
 
-#### k3s/k3os
+#### k3os
+
+Since we already agreed on k3s as our Kubernetes distribution, we checked
+different ways of deploying k3s. The most interesting way was to have a
+"turnkey" solution like [k3os](https://k3os.io).
+
+You can read more about [k3os](https://k3os.io/) and check our own
+[documentation](docs/K3OS.md).
+
+#### k3s
 
 Using Kubernetes was somewhat mandatory to ensure that we can maintain our
 software in a declaritive and consistent way. After lots of investigation,
-we made the decision to use k3s/k3os as our base and focus on a Kubernetes-only
+we made the decision to use k3s as our base and focus on a Kubernetes-only
 workflow.
 
-You can read more about [k3s](https://k3s.io/) and [k3os](https://k3os.io/)
-beforehand and also check our own [documentation](docs/K3OS.md).
+You can read more about [k3s](https://k3s.io/) and check our own
+[documentation](docs/K3S.md).
 
 #### Kubernetes
 
@@ -126,6 +145,16 @@ ensure that nothing is changed by accident.
 
 You can read more about the reasons and guidelines in the Kubernetes
 [document](docs/KUBERNETES.md).
+
+#### Rancher system upgrade controller
+
+With the decision of k3s and k3os we were also having a maintained option to
+configure, upgrade and maintain Kubernetes and the underlying Linux. The
+[system upgrade controller](https://github.com/rancher/system-upgrade-controller)
+from Rancher is our go-to-option.
+
+You can read more about the decision and the features in
+[this document](./docs/RANCHER_SUC.md).
 
 ## Contribute
 
