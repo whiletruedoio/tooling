@@ -3,6 +3,11 @@ reference: https://www.makeareadme.com/
 reference: https://commonmark.org/
 -->
 
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/whiletruedoio/tooling?logo=GitHub&label=Release&sort=semver)](https://github.com/whiletruedoio/tooling/releases)
+[![GitHub issues](https://img.shields.io/github/issues/whiletruedoio/tooling)](https://github.com/whiletruedoio/tooling/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/whiletruedoio/tooling)](https://github.com/whiletruedoio/tooling/pulls)
+[![GitHub license](https://img.shields.io/github/license/whiletruedoio/tooling)](https://github.com/whiletruedoio/tooling/blob/main/LICENSE)
+
 # Tooling
 
 Overview and documentation of the tooling used to drive while-true-do.io. Also,
@@ -62,6 +67,12 @@ release announcements.
 
 You can find some details about the integrations and reasons in
 [the document](docs/LINKEDIN.md) about LinkedIn.
+
+#### Shields.io
+
+[Shields](https://shields.io) are used in most repositories to display easy to
+access information about releases, builds and more. You can find more about this
+in the dedicated [document](./docs/SHIELDS.md).
 
 #### Slack
 
