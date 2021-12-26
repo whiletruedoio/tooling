@@ -1,8 +1,8 @@
 # Shields
 
-At [while-true-do.io], we are using shields to present information in a simple
-way. Shields can re-present Release Versions, Links to Chat, display followers
-and much more.
+At [while-true-do.io](https://while-true-do.io), we are using shields to present
+information in a simple way. Shields can re-present Release Versions, Links to
+Chat, display followers and much more.
 
 ## Reasons
 
