@@ -167,6 +167,13 @@ from Rancher is our go-to-option.
 You can read more about the decision and the features in
 [this document](./docs/RANCHER_SUC.md).
 
+#### VSCode
+
+Some of us are using [VSCode](https://code.visualstudio.com/) or some fork of
+it like [VSCodium](https://vscodium.com/) for editing Kubernetes, Ansible,
+Container files and much more. There is a dedicated [document](./docs/VSCODE.md)
+providing some more details.
+
 ## Contribute
 
 Thank you so much for considering to contribute! We are happy, when someone is
