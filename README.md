@@ -11,7 +11,7 @@ reference: https://commonmark.org/
 # Tooling
 
 Overview and documentation of the tooling used to drive while-true-do.io. Also,
-integrations from one service to another. 
+integrations from one service to another.
 
 ## Motivation
 

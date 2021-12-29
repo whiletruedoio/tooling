@@ -41,13 +41,17 @@ Using content from Ansible Galaxy is done with the `ansible-galaxy` command.
 You can install a role
 
 ```sh
-$ ansible-galaxy install ROLENAME
+$ ansible-galaxy role install NAMESPACE.ROLENAME
+...
+- NAMESPACE.ROLENAME (4.7.0) was installed successfully
 ```
 
 or a collection
 
 ```sh
-$ ansible-galaxy install NAMESPACE.COLLECTION
+$ ansible-galaxy collection install NAMESPACE.COLLECTION
+...
+NAMESPACE.COLLECTION:1.0.0 was installed successfully
 ```
 
 You can learn more about the general usage of Ansible Galaxy in the official
@@ -67,5 +71,5 @@ and
 [collection](https://docs.ansible.com/ansible/latest/dev_guide/developing_collections.html)
 development available.
 
-For our repositories, you will finde detailed development guides in the
-repository, where the role, plugin or collection lives.
+You will find detailed development guides in the repository, where the role,
+plugin or collection is located.
