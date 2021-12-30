@@ -13,6 +13,8 @@ This file is the changelog of [tooling](https://github.com/whiletruedoio/tooling
 - Added: metafiles
 - Added: LICENSE
 - Added: CHANGELOG
+- Added: docs/* with lots of documents describing tools
+- Added: cirrus ci testing (markdownlint and yamllint)
 
 ## [MAJOR.MINOR.PATCH-LABEL] - YYYYMMDD
 
