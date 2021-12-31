@@ -3,6 +3,7 @@ container:
   cpu: 1
   memory: "2G"
 
+# Sanity checks
 lint_markdown_task:
   name: "Lint Markdown"
   container:

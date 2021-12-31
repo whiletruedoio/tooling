@@ -130,6 +130,13 @@ is also easy to learn and provides thousands of integrations.
 If you intend to use Ansible or maintain Ansible Code, it is highly recommended
 to read our [Ansible Documentation](docs/ANSIBLE.md) beforehand.
 
+#### Git
+
+For source code management, we use [Git](https://git-scm.com). You can find a
+very simple documentation in the [Git document](docs/GIT.md), the
+[GitHub document](docs/GITHUB.md) and the
+[Contribution Guide](https://github.com/whiletruedoio/.github/blob/main/docs/CONTRIBUTE.md).
+
 #### k3os
 
 Since we already agreed on k3s as our Kubernetes distribution, we checked
@@ -178,9 +185,7 @@ providing some more details.
 ## Contribute
 
 Thank you so much for considering to contribute! We are happy, when someone is
-joining the hard work. Please have a look at the
-[Contributor Conventions](https://github.com/whiletruedoio/.github/blob/main/docs/CODE_OF_CONDUCT.md)
-beforehand.
+joining the hard work.
 
 ### Issues
 
