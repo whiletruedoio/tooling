@@ -40,6 +40,16 @@ collections. We also intend to publish our work there.
 
 You can find a more detailed description [here](./docs/ANSIBLE_GALAXY.md).
 
+#### Cirrus CI
+
+We want to automate a lot to reduce manual effort and establish a high quality
+of code. We opted for [Cirrus](https://cirrus-ci.org/), since it provides a nice
+integration in [GitHub](GITHUB.md), a Command Line Interface and a cloud
+service, that can be used for free.
+
+You can find some more details about Cirrus CI in the
+[Cirrus document](./docs/CIRRUS.md).
+
 #### Docker Hub
 
 [Docker Hub](https://hub.docker.com/u/whiletruedoio) is the most common resource
@@ -129,6 +139,16 @@ is also easy to learn and provides thousands of integrations.
 
 If you intend to use Ansible or maintain Ansible Code, it is highly recommended
 to read our [Ansible Documentation](docs/ANSIBLE.md) beforehand.
+
+#### Cirrus CLI
+
+We want to automate a lot to reduce manual effort and establish a high quality
+of code. We opted for [Cirrus](https://cirrus-ci.org/), since it provides a nice
+integration in [GitHub](GITHUB.md), a Command Line Interface and a cloud
+service, that can be used for free.
+
+You can find some more details about Cirrus CI in the
+[Cirrus document](./docs/CIRRUS.md).
 
 #### Git
 

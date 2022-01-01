@@ -15,6 +15,7 @@ This file is the changelog of [tooling](https://github.com/whiletruedoio/tooling
 - Added: CHANGELOG
 - Added: docs/* with lots of documents describing tools
 - Added: cirrus ci testing (markdownlint and yamllint)
+- Added: Cirrus CI and CLI documentation
 
 ## [MAJOR.MINOR.PATCH-LABEL] - YYYYMMDD
 
