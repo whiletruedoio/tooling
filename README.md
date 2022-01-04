@@ -232,6 +232,12 @@ We are maintaining a [changelog](CHANGELOG.md) for repositories. Normally, the
 developers will update the changelog, according to
 [keepachangelog.com](https://keepachangelog.com/).
 
+### Test
+
+To ensure a high quality and functionality, we want to carefully test our
+software. The provided code is automatically tested as described in the
+[.cirrus.yml](.cirrus.yml).
+
 ## License
 
 Except otherwise noted, all work is [licensed](LICENSE) under a
