@@ -21,6 +21,7 @@ This file is the changelog of [tooling](https://github.com/whiletruedoio/tooling
 - Added: Docker
 - Added: Minikube
 - Fixed: Cirrus CLI dependencies
+- Trigger: ci/cd
 
 ## [MAJOR.MINOR.PATCH-LABEL] - YYYYMMDD
 
