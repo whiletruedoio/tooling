@@ -194,6 +194,15 @@ ensure that nothing is changed by accident.
 You can read more about the reasons and guidelines in the Kubernetes
 [document](docs/KUBERNETES.md).
 
+#### Minikube
+
+Minikube is a CNCF certified software to run a very minimal Kubernetes instance
+on your local machine. This is extremely useful in development, since you don't
+require any central hardware.
+
+You can find some features and reasons or useful links in the
+[Minikube document](./docs/MINIKUBE.md).
+
 #### Podman
 
 Podman is a new Docker replacement, which provides a daemonless and rootless
