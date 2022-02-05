@@ -72,3 +72,10 @@ examples [here](https://github.com/whiletruedoio/container-template).
 We want to automatically build and publish new images, based on a branch and
 git tag. Additionally, we want to inform developers via Slack, if something new
 is published.
+
+## Bot User
+
+We have created a bot user, named **wtdbot**. This bot should help in CI/CD or
+in any kind of automation. The credentials can be requested from the
+[maintainers](https://github.com/whiletruedoio/organization/blob/main/docs/PEOPLE.md#maintainers),
+which will handle how the credentials can be used.

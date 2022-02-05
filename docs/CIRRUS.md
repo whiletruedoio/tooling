@@ -110,3 +110,16 @@ several places like the repository overview, [shields](SHIELDS.md) or in pull
 requests.
 
 Additional integrations to [Slack](SLACK.md) are not used, yet.
+
+## Bot Users
+
+There are situations, where you need to have a technical user / bot user, that
+can access certain resources (ex.: pushing a container to Docker Hub via CI/CD).
+
+These users can be requested from the
+[maintainers](https://github.com/whiletruedoio/organization/blob/main/docs/PEOPLE.md#maintainers)
+and will given to you as an encrypted value. This calue can be decrypted from
+the Cirrus CI.
+
+In case such an encrypted value becomes vulnerable or invalid, please reach out
+to the maintainers immediately, so we can revoke and re-create the users.
