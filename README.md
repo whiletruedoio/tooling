@@ -147,8 +147,17 @@ of code. We opted for [Cirrus](https://cirrus-ci.org/), since it provides a nice
 integration in [GitHub](GITHUB.md), a Command Line Interface and a cloud
 service, that can be used for free.
 
-You can find some more details about Cirrus CI in the
+You can find some more details about Cirrus CI and Cirrus CLI in the
 [Cirrus document](./docs/CIRRUS.md).
+
+#### Docker
+
+Docker is the most known container software and also very well established in
+the tech industries. This document will cover the software (namely Docker CLI
+and Docker daemon) and why we are using it.
+
+The [Docker document](./docs/DOCKER.md) provides some additional links and
+details.
 
 #### Git
 
@@ -184,6 +193,16 @@ ensure that nothing is changed by accident.
 
 You can read more about the reasons and guidelines in the Kubernetes
 [document](docs/KUBERNETES.md).
+
+#### Podman
+
+Podman is a new Docker replacement, which provides a daemonless and rootless
+experience. Similar to Docker, you can build, run and publish container
+workloads with Podman. Instead of providing a seperate daemon, Podman is
+using many systemd mechanisms.
+
+The [Podman document](./docs/PODMAN.md) provides useful links and some
+explanations, why we are using Podman.
 
 #### Rancher system upgrade controller
 
