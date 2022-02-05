@@ -16,6 +16,11 @@ This file is the changelog of [tooling](https://github.com/whiletruedoio/tooling
 - Added: docs/* with lots of documents describing tools
 - Added: cirrus ci testing (markdownlint and yamllint)
 - Added: Cirrus CI and CLI documentation
+- Added: GitHub CLI
+- Added: Podman
+- Added: Docker
+- Added: Minikube
+- Fixed: Cirrus CLI dependencies
 
 ## [MAJOR.MINOR.PATCH-LABEL] - YYYYMMDD
 

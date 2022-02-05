@@ -77,6 +77,10 @@ It is strongly recommended to use Cirrus CLI locally before opening a pull
 request and also add more steps to the pipeline, if your contribution demands
 it.
 
+In case you are using Podman as the backend, you need to install
+"podman-docker", too. Otherwise Cirrus CLI will fail, when it comes to
+`docker_builder` tasks.
+
 ### Testing Scenarios
 
 Testing can mean everything and nothing. There are hundreds of tests possible
