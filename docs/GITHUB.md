@@ -78,6 +78,13 @@ repository and include some standard files.
 Using GitHub is quite easy, but if you are completely new to Git/GitHub, you may
 need some guidance. After the registration, you can check out the below options.
 
+### git client
+
+For many developers, using Git means using the command line. You can use GitHub
+with a regular Git client.
+
+- <https://git-scm.com/>
+
 ### GitHub applications
 
 GitHub offers Desktop and Mobile applications to manage your projects and issues.
@@ -89,12 +96,14 @@ You can also manage issues, pull requests and much more in the applications.
 - <https://desktop.github.com/>
 - <https://github.com/mobile/>
 
-### git client
+### GitHUb CLI
 
-For many developers, using Git means using the command line. You can use GitHub
-with a regular Git client.
+Even if this is not an essential tool, it may be a cool helper for your
+workflow. GitHub CLI is piece of software that allows you to interact with
+GitHub on the command line. You can review issues, create releases and much
+more.
 
-- <https://git-scm.com/>
+- <https://cli.github.com/>
 
 ## Integrations
 
